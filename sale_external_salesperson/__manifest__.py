@@ -2,10 +2,15 @@
 
 {
     'name': 'Sales - External Salesperson',
-    'version': '1.1',
+    'version': '1.0',
     'category': 'Sales/Sales',
     'summary': 'Allows to associate salesperson without extra licence',
     'description': """
+# How To use
+
+1. Go to the contact form
+2. Check "Is external salesperson"
+3. Grant portal access to this contact
     """,
     'depends': ['sale'],
     'data': [
